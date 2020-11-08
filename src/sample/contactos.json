@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "nombre": "Johnny Augusto",
+        "numero": "809-312-5342",
+        "email": "johnny45@hotmail.com"
+    },
+    {
+        "id": 1,
+        "nombre": "Wilkins Alejandro",
+        "numero": "849-574-9123",
+        "email": "King@hotmail.com"
+    },
+    {
+        "id": 2,
+        "nombre": "Harvis Joel",
+        "numero": "809-967-2346",
+        "email": "Hjoel20@hotmail.com"
+    }
+]
